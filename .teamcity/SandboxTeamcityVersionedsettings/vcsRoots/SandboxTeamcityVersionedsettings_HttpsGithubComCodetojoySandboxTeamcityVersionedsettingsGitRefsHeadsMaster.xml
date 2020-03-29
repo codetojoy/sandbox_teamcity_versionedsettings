@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="b2588320-0795-473a-810b-116f4e50a057" type="jetbrains.git" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
+  <name>https://github.com/codetojoy/sandbox_teamcity_versionedsettings.git#refs/heads/master</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="credentialsJSON:2528e7d1-fa05-4ff0-88cc-f5bf09778b47" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="url" value="https://github.com/codetojoy/sandbox_teamcity_versionedsettings.git" />
+  <param name="useAlternates" value="true" />
+  <param name="username" value="codetojoy" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
