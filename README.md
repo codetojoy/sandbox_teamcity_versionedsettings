@@ -1,1 +1,4 @@
-# sandbox_teamcity_versionedsettings
+### Summary
+
+This is a sandbox project to work with TeamCity's versioned settings.
+
