@@ -1,0 +1,8 @@
+
+repositories {
+    jcenter()
+}
+
+task mockBuild {
+    println "TRACER hello from Gradle mockBuild"
+}
