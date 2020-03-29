@@ -6,3 +6,7 @@ repositories {
 task mockBuild {
     println "TRACER hello from Gradle mockBuild"
 }
+
+task mockBuild2(dependsOn: mockBuild) {
+    println "TRACER mockBuild 2"
+}
